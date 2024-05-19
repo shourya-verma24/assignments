@@ -5,7 +5,7 @@ import React from "react";
 function UserList1() {
   const users = [
     { id: 1, name: "Alice" },
-    { id: 2, name: "Bob" },
+    { id: 2, name: "Bo" },
     { id: 3, name: "Charlie" },
   ];
   return (
